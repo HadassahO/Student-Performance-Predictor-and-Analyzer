@@ -1,13 +1,12 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
 
-Description of the app ...
+# 🎓 Student Performance Predictor and Analyzer
+
+This project is a Streamlit-based web application designed to predict student academic performance, assess their digital readiness, identify "at-risk" students, and visualize overall student performance trends based on various academic and socio-economic factors. It utilizes a pre-trained machine learning model for predictions and offers an interactive interface for insights.
+
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://Student-Performance-Predictor-and-Analyzer.streamlit.app/)
 
 ## GitHub Codespaces
 
